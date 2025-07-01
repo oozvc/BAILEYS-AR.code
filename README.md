@@ -104,7 +104,7 @@ const { default: makeWASocket } = require("baileys-AR.code")</code></pre>
   </div>
 
   <footer style="margin-top: 4rem; text-align: center; font-size: 0.9em;">
-    💻 Made with 💚 by <a href="https://github.com/ARcodeTeam">AR.code</a>
+    💻 Made with 💚 by <a href="[(https://github.com/oozvc)]">AR.code</a>
   </footer>
 
 </body>
